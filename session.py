@@ -7,7 +7,7 @@ from pyrogram import Client
 # guide them
 
 intro = """
-@SHIVANSH474 Corporation
+@ll_SABKA_BHAI_KILLER_ll Corporation
 Get the following values by logging to,
 
 https://my.telegram.org
