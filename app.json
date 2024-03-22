@@ -1,6 +1,6 @@
 {
-    "name": "SHUKLAUSERBOT",
-    "description": "SHUKLAUSERBOT is an advanced & powerful multi-featured Telegram userbot.",
+    "name": "SHIVUSERBOT",
+    "description": "SHIVUSERBOT is an advanced & powerful multi-featured Telegram userbot.",
     "logo": "https://telegra.ph/file/7a2e0a67e160deb60e48b.jpg",
     "keywords": [
         "SHUKLAUSERBOT",
@@ -8,7 +8,7 @@
         "telegram-music-bot",
         "telegram-video-bot"
     ],
-    "repository": "https://github.com/itzshukla/STRANGER-OPUSERBOT2.0",
+    "repository": "https://github.com/Killerboyxd/SHIV-OPUSERBOT2.0",
     "stack": "container",
     "env": {
         "API_ID": {
@@ -29,17 +29,17 @@
         "SUDO_USERS": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "6566179661"
+            "value": "5505030156"
         },
           "OWNER_ID": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "6566179661"
+            "value": "5505030156"
               },
           "OWNER_USERNAME": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "SHIVANSH39"
+            "value": "ll_SABKA_BHAI_KILLER_ll"
         },
         "STRING_SESSION": {
             "description": "Enter your pyrogram v2 string session here.",
@@ -48,12 +48,12 @@
         },
         "MONGO_DB_URL": {
             "description": "Enter your mongodb url here.",
-            "value": "mongodb+srv://SHASHANK:STRANGER@shashank.uj7lold.mongodb.net/?retryWrites=true&w=majority",
+            "value": "mongodb+srv://Iamdevilxop:Royal9011@cluster0.znqbh.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "LOG_GROUP_ID": {
             "description": "Enter your private log group id here.",
-            "value": "-1002018556839",
+            "value": "-1001597681978",
             "required": true
         }
     },
