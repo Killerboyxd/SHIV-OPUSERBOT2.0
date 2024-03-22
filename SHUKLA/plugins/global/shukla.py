@@ -1,6 +1,6 @@
 # Powered By // @SHIVANSH474 //
 
-__NAME__ = "Sʜᴜᴋʟᴀ"
+__NAME__ = "sʜɪᴠ"
 __MENU__ = """
- **@SHIVANSH474**
+ **@ll_SABKA_BHAI_KILLER_ll**
 """
